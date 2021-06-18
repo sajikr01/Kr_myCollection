@@ -1,0 +1,9 @@
+com\example\soapmvn\endpoint\UserEndpoint.class
+com\example\soapmvn\SoapmvnApplication.class
+com\example\soap_mvn\GetUserRequest.class
+com\example\soap_mvn\GetUserResponse.class
+com\example\soapmvn\service\UserService.class
+com\example\soapmvn\config\SoapWebServiceConfig.class
+com\example\soap_mvn\ObjectFactory.class
+com\example\soap_mvn\User.class
+com\example\soap_mvn\package-info.class
